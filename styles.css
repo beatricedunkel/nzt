@@ -1,10 +1,10 @@
 body {
-    background-color: antiquewhite;
+    background-color: bisque;
 }
 
 
 .titel {
-    color: purple;
+    color: rgb(181, 105, 181);
     text-align: center;
     font-size: 70px;
 }
@@ -12,4 +12,14 @@ body {
 .bodyimage {
     width: 500px;
     height: auto;
+}
+
+.text1 {
+    font-size: 42px;
+    color: brown;
+}
+
+.flexbox{
+    display: flex;
+    gap: 20px;
 }
